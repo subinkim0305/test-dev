@@ -1,4 +1,0 @@
-hello
-aloha
-nihao
-mia
